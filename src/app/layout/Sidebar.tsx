@@ -44,8 +44,8 @@ export default function Sidebar({
             borderLeft: expanded
               ? "solid 0.12em white"
               : darkMode
-              ? "solid 0.12em #333333"
-              : "solid 0.12em #2c2c2c",
+                ? "solid 0.12em #333333"
+                : "solid 0.12em #2c2c2c",
             cursor: "pointer",
             WebkitTapHighlightColor: "rgba(0,0,0,0)",
           }}
@@ -71,7 +71,7 @@ export default function Sidebar({
         <Tooltip title="Source of this project" arrow placement="right">
           <Link
             target="_blank"
-            href={"https://github.com/noworneverev/react-vscode-portfolio"}
+            href={"https://github.com/TelmanEv/myPortfolio"}
             underline="none"
             color="inherit"
             sx={{ WebkitTapHighlightColor: "rgba(0,0,0,0)" }}
