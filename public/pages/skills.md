@@ -1,7 +1,7 @@
 # 💻 Skills
 
 ## General Tech Stacks
-- Architecture Design
+- Adobe Indesign
 - Desktop App Development
 - Web Development (Frontend & Backend)
 
