@@ -37,3 +37,7 @@
 <h2 class="google-units-converter">GoogleUnits converter</h2>
 <p>Developed a unit converter that converts between different units of measurement using JavaScript for the logic and front-end of the converter.<br> <a href="https://googleunitsconverter.onrender.com">Google Units Converter</a></p>
 <img src="../gConverter.png" alt="Naruto" height="420" width="600">
+
+<h2 class="password-generator">Password Generator</h2>
+<p>Developed password generator using JavaScript for the logic and front-end of the converter.<br> <a href="https://passwordgenerator-5ahn.onrender.com">Password Generator</a></p>
+<img src="../gConverter.png" alt="Naruto" height="420" width="600">
