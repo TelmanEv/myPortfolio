@@ -39,5 +39,9 @@
 <img src="../gConverter.png" alt="Naruto" height="420" width="600">
 
 <h2 class="password-generator">Password Generator</h2>
-<p>Developed password generator using JavaScript for the logic and front-end of the converter.<br> <a href="https://passwordgenerator-5ahn.onrender.com">Password Generator</a></p>
+<p>Developed password generator using JavaScript for the logic and front-end.<br> <a href="https://passwordgenerator-5ahn.onrender.com">Password Generator</a></p>
+<img src="../pass.png" alt="Naruto" height="420" width="600">
+
+<h2 class="Mandarin-studies">Learning Mandarin</h2>
+<p>Developed a Mandarin Language study tool using JavaScript for the logic and front-end.<br> <a href="https://learningmandarin.onrender.com">Mandarin Studies</a></p>
 <img src="../pass.png" alt="Naruto" height="420" width="600">
