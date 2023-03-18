@@ -1,10 +1,12 @@
 # 💻 Skills
 
 ## General Tech Stacks
-- Adobe Indesign
-- Desktop App Development
 - Web Development (Frontend & Backend)
-
+- Data Science
+- Data Analytics
+- Desktop App Development
+- Adobe Indesign
+- Mathematics/Statistics problem solving
 ## Programming languages
 - JavaScript/TypeScript
 - R
