@@ -44,4 +44,8 @@
 
 <h2 class="Mandarin-studies">Learning Mandarin</h2>
 <p>Developed a Mandarin Language study tool using JavaScript for the logic and front-end.<br> <a href="https://learningmandarin.onrender.com">Mandarin Studies</a></p>
-<img src="../Mandarin.png" alt="Naruto" height="420" width="600">
+<img src="../Mandarin.png" alt="Mandarin" height="420" width="600">
+
+<h2 class="Number-game">Guess the Number</h2>
+<p>A simple game of guessing the random number between 1-100<br> <a href="https://numberguessing.onrender.com">Number Game</a></p>
+<img src="../numbers.png" alt="Number" height="420" width="600">
