@@ -49,3 +49,8 @@
 <h2 class="Number-game">Guess the Number</h2>
 <p>A simple game of guessing the random number between 1-100<br> <a href="https://numberguessing.onrender.com">Number Game</a></p>
 <img src="../numbers.png" alt="Number" height="420" width="600">
+
+<h2 class="Calc">Calculator Project</h2>
+<p>A basic calculator application built using HTML, CSS, and JavaScript.<br> <a href="https://calc-6og7.onrender.com">Calculator</a></p>
+<img src="../calc.png" alt="Calc" height="420" width="600">
+
