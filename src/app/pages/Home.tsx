@@ -18,12 +18,13 @@ interface Props {
 
 export default function Home({ setSelectedIndex }: Props) {
   const { pathname } = useLocation();
+
   useEffect(() => {
     setSelectedIndex(-1);
   }, [setSelectedIndex]);
 
   useEffect(() => {
-    document.title = process.env.REACT_APP_NAME!;
+    document.title = "Telman Evdaev";
   }, [pathname]);
 
   return (
@@ -45,7 +46,7 @@ export default function Home({ setSelectedIndex }: Props) {
               display="flex"
               justifyContent={{ xs: "center", sm: "flex-start" }}
             >
-              <Typography variant="h3">{process.env.REACT_APP_NAME}</Typography>
+              <Typography variant="h3">Telman Evdaev</Typography>
             </Grid>
             <Grid
               display="flex"
@@ -53,14 +54,6 @@ export default function Home({ setSelectedIndex }: Props) {
             >
               <Typography variant="subtitle1" gutterBottom>
                 In God we trust
-                {/* Better an{' '}
-                <Box fontWeight="fontWeightMedium" display="inline">
-                  oops
-                </Box>{' '}
-                than a{' '}
-                <Box fontWeight="fontWeightMedium" display="inline">
-                  what if
-                </Box> */}
               </Typography>
             </Grid>
             <Grid
