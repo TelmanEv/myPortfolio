@@ -22,7 +22,7 @@
 **Projects 📄**
 <h2 class="speed-test">Internet Speed Test</h2>
 <p>This web-based Internet Speed Test allows users to measure their connection speed by downloading a specific image. It provides real-time speed measurements in Mbps, offering a user-friendly experience to quickly assess internet speeds. Built with HTML, CSS, and JavaScript, it features an attractive design and interactive elements. <br><a href="https://internetspeed.onrender.com">View the website</a></p>
-<img src="../internet.jpeg" alt="Space Ship project thumbnail" height="420" width="600">
+<img src="../internet.png" alt="speedTestThumbnail" height="420" width="600">
 
 <h2 class="space-ship">Space Ship project</h2>
 <p>Created a full-stack web application to showcase different Mars missions, using JavaScript and React for the front-end and back-end, and deployed the website using Render. <br><a href="https://spacemission.onrender.com">View the website</a></p>
