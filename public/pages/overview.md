@@ -36,8 +36,6 @@ PROJECTS:
 • Volunteered and led a team of 3 in organizing comfort for chronically, terminally, and seriously ill patients.
 
 
-- _**Technologies used:**_ JavaScript, React, MongoDB, R, SQL, Excel
-
 &nbsp;
 
 ## Education
