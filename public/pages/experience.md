@@ -1,32 +1,34 @@
 # 👨‍💻 Experience
-**Software Developer Projects** @ Noble Desktop Software Engineering NY, USA (October 2022- Feburary 2023)
-PROJECTS:
-• TicTacToe project - Built a Tic Tac Toe game using JavaScript for the front-end and logic of the game.
-• NarutoCharacters - Developed a web page showcasing different Naruto characters using JavaScript for dynamic display and interaction via EJS.
-• Pokemons - Created a Pokemon database that displays information about different Pokemons using JavaScript for the front-end and to fetch data from APIs.
-• McuCharacters - Built a Full-stack website displaying information about Marvel Cinematic Universe characters using JavaScript for dynamic display and interaction.
-• GoogleUnits converter - Developed a unit converter that converts between different units of measurement using JavaScript for the logic and front-end of the converter.
-**Econometrics Researcher** @ Tiomkin School of Economics Research Herzliya, Israel (March 2021 - June 2021)
 
-• Conducted research on Gorbachev's Anti-Alcohol campaign's impact on alcohol consumption in Russia through regression analysis in R.
-• Built 9 models (1992-2000) in R on historical mortality rates, showing a decrease in crude death rate due to the campaign.
-• Achieved a high R^2 (0.965) with significant and unbiased results.
+**Graduate Assistant** @ Yeshiva University – New York, NY *(July 2024 – Present)*  
+- Performed data analysis on academic and administrative datasets to support decision-making processes.  
+- Managed and organized large datasets using advanced Excel techniques like pivot tables, complex formulas, and data validation.  
+- Responded to and managed university email communications via Microsoft Outlook, ensuring clear and timely support for students and faculty.
 
-**Behavioral finance Researcher** @ Financial Research Herzliya, Israel (October 2021 - June 2022)
+**Software Developer Projects** @ Noble Desktop Software Engineering – NY, USA *(October 2022 – February 2023)*  
+**Projects:**  
+- **TicTacToe**: Built a Tic Tac Toe game using JavaScript for the front-end and game logic.  
+- **NarutoCharacters**: Developed a web page showcasing Naruto characters with dynamic display and interaction using JavaScript and EJS.  
+- **Pokemons**: Created a database-driven web page displaying Pokemon data using JavaScript to fetch and present API results.  
+- **MCUCharacters**: Designed a full-stack website to present Marvel Cinematic Universe character data dynamically.  
+- **GoogleUnits Converter**: Developed a unit converter for various measurements using JavaScript for logic and front-end design.  
 
-• Collaborated on yearly research on the effects of moon cycles on S&P 500 and other stocks using Excel and R.
-• Created two regression models to remove correlations and ensure moon phase events' independence on daily returns and volatilities of SPY.
+**Econometrics Researcher** @ Tiomkin School of Economics – Herzliya, Israel *(March 2021 – June 2021)*  
+- Conducted research on the impact of Gorbachev's Anti-Alcohol campaign on Russian alcohol consumption using regression analysis in R.  
+- Built nine statistical models (1992–2000) to analyze historical mortality rates, achieving a high R² (0.965).  
+- Results showed significant decreases in crude death rates due to the campaign, supported by unbiased and accurate regression outputs.  
 
-**Data Analyst @ Yandex.Taxi** (“AutoCity” branch) Moscow, Russia (October 2020 - September 2021)
+**Behavioral Finance Researcher** @ Financial Research – Herzliya, Israel *(October 2021 – June 2022)*  
+- Investigated the effects of moon phases on S&P 500 returns and volatilities using R and Excel.  
+- Built two regression models incorporating Fama & French Factors and Calendar Week Fixed Effects to remove correlations and isolate moon phase impacts.  
 
-• Analyzed taxi ride patterns in Moscow city for the company through interaction with the operational team.
-• Mined data of Yandex.Taxi's driver services and customer behavior to formulate research on ride patterns in Moscow.
-• Built models in R to improve automotive processes, such as predicting the total amount of cars needed in specific areas of Moscow.
-• Recommended and taught colleagues the basics of R.
+**Data Analyst** @ Yandex.Taxi ("AutoCity" Branch) – Moscow, Russia *(October 2020 – September 2021)*  
+- Analyzed taxi ride patterns in Moscow, working closely with operational teams to enhance service strategies.  
+- Mined data on driver services and customer behavior to improve operational research.  
+- Built predictive models in R to optimize vehicle deployment in specific city areas.  
+- Trained colleagues on R basics to improve efficiency and adoption of data-driven methodologies.  
 
-**Volunteer** @ Vera Hospice Moscow, Russia (October 2017 - April 2018)
+**Volunteer** @ Vera Hospice – Moscow, Russia *(October 2017 – April 2018)*  
+- Organized and led a team of three to improve the quality of life for terminally ill patients.  
 
-• Volunteered and led a team of 3 in organizing comfort for chronically, terminally, and seriously ill patients.
-
-
-- _**Technologies used:**_ JavaScript, React, MongoDB, R, SQL, Excel
+- _**Technologies used:**_ JavaScript, React, MongoDB, R, SQL, Excel, EJS  
