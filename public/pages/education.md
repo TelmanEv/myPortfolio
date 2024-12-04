@@ -1,7 +1,11 @@
 # 👨‍🎓 Education
 
-`2019-2022` [Reichman University](https://www.runi.ac.il/en)
-- **Bachelor of Science** Double Majored in Business Administration & Economics (Finance specialization) 
-- GPA: 84.71
-- Relevant Coursework includes: 
-  - Applied Econometrics, Calculus I&II, Futures & Options,Intermediate Microeconomic Theory (1-3), R & SQL Coding, Financial Accounting, Linear Algebra
+`2024-2025` [Yeshiva University](https://www.yu.edu/) – New York, NY  
+- **Master of Science** in Digital Marketing & Media *(Expected 2025)*  
+- Current GPA: 3.67  
+
+`2019-2022` [Reichman University](https://www.runi.ac.il/en) – Herzliya, Israel  
+- **Bachelor of Arts** in Business Administration & Economics (Finance specialization)  
+- GPA: 84.71  
+- Relevant Coursework includes:  
+  - Applied Econometrics, Calculus I & II, Futures & Options, Intermediate Microeconomic Theory (1–3), R & SQL Coding, Financial Accounting, Linear Algebra
