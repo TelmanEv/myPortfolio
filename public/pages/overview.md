@@ -1,84 +1,79 @@
 # 📖 Overview
 
 ## Summary
-
-Data Analyst and Junior Software Developer in web applications and development. Developed full-stack projects using JavaScript, MongoDB and React as main tools. Gathered, analyzed, and interpreted data, demonstrating expertise in using R and SQL languages for data analytics. Designed, coded, tested, and deployed web applications. Demonstrated proficiency in JavaScript and MongoDB to build robust and scalable web applications that meet stakeholders' needs.
-
+Marketing Analyst and Data Analyst with expertise in data analytics, web development, and statistical modeling. Proficient in R, SQL, JavaScript, and Microsoft Excel, with experience managing datasets, performing regression analysis, and developing full-stack projects. Skilled in building robust and scalable web applications using React and MongoDB, as well as conducting academic and financial research.
 
 ## Experience
-**Software Developer Projects** @ Noble Desktop Software Engineering NY, USA (October 2022- Feburary 2023)
-PROJECTS:
-• TicTacToe project - Built a Tic Tac Toe game using JavaScript for the front-end and logic of the game.
-• NarutoCharacters - Developed a web page showcasing different Naruto characters using JavaScript for dynamic display and interaction via EJS.
-• Pokemons - Created a Pokemon database that displays information about different Pokemons using JavaScript for the front-end and to fetch data from APIs.
-• McuCharacters - Built a Full-stack website displaying information about Marvel Cinematic Universe characters using JavaScript for dynamic display and interaction.
-• GoogleUnits converter - Developed a unit converter that converts between different units of measurement using JavaScript for the logic and front-end of the converter.
-**Econometrics Researcher** @ Tiomkin School of Economics Research Herzliya, Israel (March 2021 - June 2021)
+**Graduate Assistant** @ Yeshiva University – New York, NY *(July 2024 – Present)*  
+- Performed data analysis on academic and administrative datasets to identify trends and provide actionable insights.  
+- Managed large datasets in Excel, using advanced features such as pivot tables, formulas, and data validation.  
+- Handled university email communications via Microsoft Outlook, ensuring efficient responses to student and faculty inquiries.  
 
-• Conducted research on Gorbachev's Anti-Alcohol campaign's impact on alcohol consumption in Russia through regression analysis in R.
-• Built 9 models (1992-2000) in R on historical mortality rates, showing a decrease in crude death rate due to the campaign.
-• Achieved a high R^2 (0.965) with significant and unbiased results.
+**Software Developer Projects** @ Noble Desktop Software Engineering – NY, USA *(October 2022 – February 2023)*  
+**Projects:**  
+- **TicTacToe**: Built a Tic Tac Toe game with JavaScript handling front-end logic.  
+- **NarutoCharacters**: Created a dynamic web page showcasing Naruto characters using JavaScript and EJS.  
+- **Pokemons**: Designed a database-driven site to fetch and display Pokemon information using JavaScript and APIs.  
+- **MCUCharacters**: Developed a full-stack site to present Marvel Cinematic Universe character data dynamically.  
+- **GoogleUnits Converter**: Built a unit converter leveraging JavaScript for both front-end and logic.  
 
-**Behavioral finance Researcher** @ Financial Research Herzliya, Israel (October 2021 - June 2022)
+**Econometrics Researcher** @ Tiomkin School of Economics – Herzliya, Israel *(March 2021 – June 2021)*  
+- Conducted regression analysis in R to study Gorbachev’s Anti-Alcohol campaign’s impact on Russian alcohol consumption.  
+- Built nine regression models (1992–2000) showing crude death rate decreases due to the campaign (R² = 0.965).  
+- Produced statistically significant and unbiased results with robust model accuracy.  
 
-• Collaborated on yearly research on the effects of moon cycles on S&P 500 and other stocks using Excel and R.
-• Created two regression models to remove correlations and ensure moon phase events' independence on daily returns and volatilities of SPY.
+**Behavioral Finance Researcher** @ Financial Research – Herzliya, Israel *(October 2021 – June 2022)*  
+- Analyzed the effects of moon cycles on S&P 500 returns and volatility using Excel and R.  
+- Created regression models incorporating Fama & French Factors and Calendar Week Fixed Effects to isolate moon phase impacts.  
 
-**Data Analyst @ Yandex.Taxi** (“AutoCity” branch) Moscow, Russia (October 2020 - September 2021)
+**Data Analyst** @ Yandex.Taxi ("AutoCity" Branch) – Moscow, Russia *(October 2020 – September 2021)*  
+- Analyzed Moscow taxi ride patterns, collaborating with operational teams for research optimization.  
+- Built R models to predict vehicle demand in specific areas and enhance automotive processes.  
+- Trained colleagues in R basics to streamline data analytics workflows.  
 
-• Analyzed taxi ride patterns in Moscow city for the company through interaction with the operational team.
-• Mined data of Yandex.Taxi's driver services and customer behavior to formulate research on ride patterns in Moscow.
-• Built models in R to improve automotive processes, such as predicting the total amount of cars needed in specific areas of Moscow.
-• Recommended and taught colleagues the basics of R.
-
-**Volunteer** @ Vera Hospice Moscow, Russia (October 2017 - April 2018)
-
-• Volunteered and led a team of 3 in organizing comfort for chronically, terminally, and seriously ill patients.
-
-
-&nbsp;
+**Volunteer** @ Vera Hospice – Moscow, Russia *(October 2017 – April 2018)*  
+- Led a team of three to organize care for chronically, terminally, and seriously ill patients.  
 
 ## Education
-`2019-2022` [Reichman University](https://www.runi.ac.il/en)
-- **Bachelor of Science** Double Majored in Business Administration & Economics (Finance specialization) 
-- GPA: 84.71
-- Relevant Coursework includes: 
-  - Applied Econometrics, Calculus I&II, Futures & Options,Intermediate Microeconomic Theory (1-3), R & SQL Coding, Financial Accounting, Linear Algebra
-
+`2019–2022` [Reichman University](https://www.runi.ac.il/en) – Herzliya, Israel  
+- **Bachelor of Arts**: Business Administration & Economics (Finance Specialization)  
+- GPA: 3.42  
+- **Relevant Coursework**: Applied Econometrics, Calculus I & II, Futures & Options, Intermediate Microeconomics, R & SQL Coding, Financial Accounting, Linear Algebra  
 
 ## Skills
 ### General Tech Stacks
 - Web Development (Frontend & Backend)
-- Desktop App Development
-- Data Analytics
-- Mathematics/Statistics problem solving
+- Data Science and Statistical Modeling
+- Data Analytics and Insights Generation
+- Academic and Administrative Dataset Analysis
+- Econometric and Financial Modeling
+- Email Management (Microsoft Outlook)
+- Advanced Excel: Pivot Tables, Complex Formulas, and Data Validation
 
-
-### Programming languages
+### Programming Languages
 - JavaScript/TypeScript
 - R
 - SQL
-- Terminal
 - HTML
 - CSS
+- Shell Scripting (Terminal)
 
+### Databases
+- MySQL
+- MongoDB
+- Microsoft Excel
 
 ## Certificates
-**Noble Desktop**
+### **Noble Desktop**
 - React Development Bootcamp
 - JavaScript Development with Node, Express, & MongoDB
 - JavaScript for Front-End
 - Web Development with HTML & CSS
-- Front-End Tools & Portfolio 
+- Front-End Tools & Portfolio
 - Flexbox, Grid, & Bootstrap
 
-<!-- ## Accomplishments
-**Won First Place** @ [EY Innovation Campaign](https://www.ey.com/) _(May 2021)_
-Built Trial Balance System, a system that streamlines data transmission across users, providing consistent, reliable financial reports to them.  -->
-
 ## Languages
-**English**: Fluent
-**Russian**: Fluent
-**Judeo-Tat**: Fluent
-**Hebrew**: Intermediate
-
+- **English**: Fluent
+- **Russian**: Fluent
+- **Judeo-Tat**: Fluent
+- **Hebrew**: Intermediate
