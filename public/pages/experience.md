@@ -1,9 +1,13 @@
 # 👨‍💻 Experience
 
-**Graduate Assistant** @ Yeshiva University – New York, NY *(July 2024 – Present)*  
-- Performed data analysis on academic and administrative datasets to support decision-making processes.  
-- Managed and organized large datasets using advanced Excel techniques like pivot tables, complex formulas, and data validation.  
-- Responded to and managed university email communications via Microsoft Outlook, ensuring clear and timely support for students and faculty.
+**Graduate Assistant @ Yeshiva University – New York, NY (July 2024 – Present)*
+- Conducted detailed data analysis on academic and administrative datasets to identify trends, optimize decision-making processes, and generate actionable insights.
+- Managed, cleaned, and organized large datasets and university databases using advanced Excel features, including pivot tables, formulas, data validation, conditional formatting, and VBA macros.
+- Coordinated university email communications through Microsoft Outlook, ensuring timely and professional responses to student and faculty inquiries.
+- Supervised exams as a proctor, maintaining academic integrity and providing support to students during assessments.
+- Supported the administration by streamlining data workflows and creating automated solutions to improve efficiency in routine tasks.
+- Designed and implemented reports and dashboards for internal stakeholders, facilitating real-time data visualization and performance tracking.
+- Collaborated with faculty and administrative teams to resolve issues, enhance student experience, and optimize university operations.
 
 **Software Developer Projects** @ Noble Desktop Software Engineering – NY, USA *(October 2022 – February 2023)*  
 **Projects:**  
