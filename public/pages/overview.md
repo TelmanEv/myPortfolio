@@ -39,10 +39,15 @@ Marketing Analyst and Data Analyst with expertise in data analytics, web develop
 - Led a team of three to organize care for chronically, terminally, and seriously ill patients.  
 
 ## Education
-`2019–2022` [Reichman University](https://www.runi.ac.il/en) – Herzliya, Israel  
-- **Bachelor of Arts**: Business Administration & Economics (Finance Specialization)  
-- GPA: 3.42  
-- **Relevant Coursework**: Applied Econometrics, Calculus I & II, Futures & Options, Intermediate Microeconomics, R & SQL Coding, Financial Accounting, Linear Algebra  
+`2024-2025` [Yeshiva University](https://www.yu.edu/) – New York, NY  
+- **Master of Science** in Digital Marketing & Media (Marketing Analytics) *(Expected 2025)*  
+- Current GPA: 3.72  
+
+`2019-2022` [Reichman University](https://www.runi.ac.il/en) – Herzliya, Israel  
+- **Bachelor of Arts** in Business Administration & Economics (Finance specialization)  
+- GPA: 84.71  
+- Relevant Coursework includes:  
+  - Applied Econometrics, Calculus I & II, Futures & Options, Intermediate Microeconomic Theory (1–3), R & SQL Coding, Financial Accounting, Linear Algebra
 
 ## Skills
 ### General Tech Stacks
