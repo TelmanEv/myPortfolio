@@ -4,10 +4,14 @@
 Marketing Analyst and Data Analyst with expertise in data analytics, web development, and statistical modeling. Proficient in R, SQL, JavaScript, and Microsoft Excel, with experience managing datasets, performing regression analysis, and developing full-stack projects. Skilled in building robust and scalable web applications using React and MongoDB, as well as conducting academic and financial research.
 
 ## Experience
-**Graduate Assistant** @ Yeshiva University – New York, NY *(July 2024 – Present)*  
-- Performed data analysis on academic and administrative datasets to identify trends and provide actionable insights.  
-- Managed large datasets in Excel, using advanced features such as pivot tables, formulas, and data validation.  
-- Handled university email communications via Microsoft Outlook, ensuring efficient responses to student and faculty inquiries.  
+**Graduate Assistant @ Yeshiva University – New York, NY (July 2024 – Present)*
+- Conducted detailed data analysis on academic and administrative datasets to identify trends, optimize decision-making processes, and generate actionable insights.
+- Managed, cleaned, and organized large datasets and university databases using advanced Excel features, including pivot tables, formulas, data validation, conditional formatting, and VBA macros.
+- Coordinated university email communications through Microsoft Outlook, ensuring timely and professional responses to student and faculty inquiries.
+- Supervised exams as a proctor, maintaining academic integrity and providing support to students during assessments.
+- Supported the administration by streamlining data workflows and creating automated solutions to improve efficiency in routine tasks.
+- Designed and implemented reports and dashboards for internal stakeholders, facilitating real-time data visualization and performance tracking.
+- Collaborated with faculty and administrative teams to resolve issues, enhance student experience, and optimize university operations.
 
 **Software Developer Projects** @ Noble Desktop Software Engineering – NY, USA *(October 2022 – February 2023)*  
 **Projects:**  
