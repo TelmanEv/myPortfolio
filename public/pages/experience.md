@@ -1,6 +1,6 @@
 # 👨‍💻 Experience
 
-**Graduate Assistant @ Yeshiva University – New York, NY (July 2024 – Present)*
+*Graduate Assistant @ Yeshiva University – New York, NY (July 2024 – Present)*
 - Conducted detailed data analysis on academic and administrative datasets to identify trends, optimize decision-making processes, and generate actionable insights.
 - Managed, cleaned, and organized large datasets and university databases using advanced Excel features, including pivot tables, formulas, data validation, conditional formatting, and VBA macros.
 - Coordinated university email communications through Microsoft Outlook, ensuring timely and professional responses to student and faculty inquiries.
