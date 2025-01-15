@@ -1,7 +1,7 @@
 # 👨‍🎓 Education
 
 `2024-2025` [Yeshiva University](https://www.yu.edu/) – New York, NY  
-- **Master of Science** in Digital Marketing & Media *(Expected 2025)*  
+- **Master of Science** in Digital Marketing & Media (Marketing Analytics) *(Expected 2025)*  
 - Current GPA: 3.67  
 
 `2019-2022` [Reichman University](https://www.runi.ac.il/en) – Herzliya, Israel  
