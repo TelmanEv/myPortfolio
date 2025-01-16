@@ -5,13 +5,13 @@ Marketing Analyst and Data Analyst with expertise in data analytics, web develop
 
 ## Experience
 *Graduate Assistant @ Yeshiva University – New York, NY (July 2024 – Present)*
-- Conducted detailed data analysis on academic and administrative datasets to identify trends, optimize decision-making processes, and generate actionable insights.
-- Managed, cleaned, and organized large datasets and university databases using advanced Excel features, including pivot tables, formulas, data validation, conditional formatting, and VBA macros.
-- Coordinated university email communications through Microsoft Outlook, ensuring timely and professional responses to student and faculty inquiries.
-- Supervised exams as a proctor, maintaining academic integrity and providing support to students during assessments.
-- Supported the administration by streamlining data workflows and creating automated solutions to improve efficiency in routine tasks.
-- Designed and implemented reports and dashboards for internal stakeholders, facilitating real-time data visualization and performance tracking.
-- Collaborated with faculty and administrative teams to resolve issues, enhance student experience, and optimize university operations.
+- Conduct detailed data analysis on academic and administrative datasets to identify trends, optimize decision-making processes, and generate actionable insights.
+- Manage, clean, and organize large datasets and university databases using advanced Excel features, including pivot tables, formulas, data validation, conditional formatting, and VBA macros.
+- Coordinate university email communications through Microsoft Outlook, ensuring timely and professional responses to student and faculty inquiries.
+- Supervise exams as a proctor, maintaining academic integrity and providing support to students during assessments.
+- Support the administration by streamlining data workflows and creating automated solutions to improve efficiency in routine tasks.
+- Design and implement reports and dashboards for internal stakeholders, facilitating real-time data visualization and performance tracking.
+- Collaborate with faculty and administrative teams to resolve issues, enhance student experience, and optimize university operations.
 
 **Software Developer Projects** @ Noble Desktop Software Engineering – NY, USA *(October 2022 – February 2023)*  
 **Projects:**  
