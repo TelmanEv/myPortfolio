@@ -35,8 +35,14 @@ Marketing Analyst and Data Analyst with expertise in data analytics, web develop
 - Built R models to predict vehicle demand in specific areas and enhance automotive processes.  
 - Trained colleagues in R basics to streamline data analytics workflows.  
 
-**Volunteer** @ Vera Hospice – Moscow, Russia *(October 2017 – April 2018)*  
-- Led a team of three to organize care for chronically, terminally, and seriously ill patients.  
+**Volunteer** @ Masa Israel Journey - Herzliya, Israel (August 2019 - October 2019)
+Givit:
+- Delivered essential items to students in need, ensuring timely support for their educational and personal needs.
+- Contributed to logistical coordination for effective resource distribution.
+
+ESRA (Israeli Magazine):
+- Organized and prepared magazines for nationwide shipment during major Jewish holidays.
+- Supported efforts to ensure the magazines were correctly delivered acording to the addresss in Israel.
 
 ## Education
 `2024-2025` [Yeshiva University](https://www.yu.edu/) – New York, NY  
