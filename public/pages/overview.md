@@ -4,6 +4,18 @@
 Marketing Analyst and Data Analyst with expertise in data analytics, web development, and statistical modeling. Proficient in R, SQL, JavaScript, and Microsoft Excel, with experience managing datasets, performing regression analysis, and developing full-stack projects. Skilled in building robust and scalable web applications using React and MongoDB, as well as conducting academic and financial research.
 
 ## Experience
+
+*Accounting Assistant | Yandex.Taxi, Moscow, Russia
+September 2025 – Present
+- Process and organize financial data through 1C accounting software, ensuring accurate entry and reconciliation of transactions.
+- Prepare and process driver deposit payments, verifying accuracy and maintaining detailed payment records.
+- Create and manage financial documents, including invoices, receipts, and payment reports, in coordination with the accounting and operations teams.
+- Handle company bill payments, ensuring timely and compliant processing of utilities, service providers, and other business expenses.
+- Support monthly and quarterly financial reporting by compiling data and assisting in balance verification.
+- Collaborate with colleagues to build and maintain datasets for internal accounting analysis and audits.
+- Use Microsoft Excel to track transactions, automate calculations, and improve accuracy in data-driven decision-making.
+- Assist in document organization and recordkeeping, maintaining compliance with internal accounting procedures and Russian financial regulations.
+
 *Graduate Assistant @ Yeshiva University – New York, NY (July 2024 – Present)*
 - Conduct detailed data analysis on academic and administrative datasets to identify trends, optimize decision-making processes, and generate actionable insights.
 - Manage, clean, and organize large datasets and university databases using advanced Excel features, including pivot tables, formulas, data validation, conditional formatting, and VBA macros.
