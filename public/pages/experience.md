@@ -1,6 +1,6 @@
 # 👨‍💻 Experience
 
-*Accounting Assistant | Yandex.Taxi, Moscow, Russia
+Accounting Assistant | Yandex.Taxi, Moscow, Russia
 September 2025 – Present
 - Process and organize financial data through 1C accounting software, ensuring accurate entry and reconciliation of transactions.
 - Prepare and process driver deposit payments, verifying accuracy and maintaining detailed payment records.
