@@ -5,7 +5,7 @@ Marketing Analyst and Data Analyst with expertise in data analytics, web develop
 
 ## Experience
 
-Accounting Assistant | Yandex.Taxi, Moscow, Russia (September 2025 – November 2025)
+Accounting Assistant @ Yandex.Taxi, Moscow, Russia (September 2025 – November 2025)
 - Process and organize financial data through 1C accounting software, ensuring accurate entry and reconciliation of transactions.
 - Prepare and process driver deposit payments, verifying accuracy and maintaining detailed payment records.
 - Create and manage financial documents, including invoices, receipts, and payment reports, in coordination with the accounting and operations teams.
