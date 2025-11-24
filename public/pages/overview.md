@@ -15,7 +15,7 @@ Accounting Assistant | Yandex.Taxi, Moscow, Russia (September 2025 – November 
 - Use Microsoft Excel to track transactions, automate calculations, and improve accuracy in data-driven decision-making.
 - Assist in document organization and recordkeeping, maintaining compliance with internal accounting procedures and Russian financial regulations.
 
-*Graduate Assistant @ Yeshiva University – New York, NY (July 2024 – Present)*
+*Graduate Assistant @ Yeshiva University – New York, NY (July 2024 – May 2025)*
 - Conduct detailed data analysis on academic and administrative datasets to identify trends, optimize decision-making processes, and generate actionable insights.
 - Manage, clean, and organize large datasets and university databases using advanced Excel features, including pivot tables, formulas, data validation, conditional formatting, and VBA macros.
 - Coordinate university email communications through Microsoft Outlook, ensuring timely and professional responses to student and faculty inquiries.
